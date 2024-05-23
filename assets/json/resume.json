@@ -7,7 +7,7 @@
     "url": "https://mai-sigurd.github.io/",
     "linkedin": "https://www.linkedin.com/in/mai-s-a-odgaard.com/"
   },
-  "work": [
+  "Work": [
     {
       "name": "Link Logistics",
       "position": "Student Devops Developer",
@@ -15,6 +15,15 @@
       "startDate": "Dec 2024 -",
       "endDate": "Present",
       "highlights": ["Docker, Kubernetes, Terraform, Github Actions"]
+    }
+  ],
+  "Teaching experience": [
+    {
+      "name": "IT-University",
+      "position": "Teaching Assistant",
+      "startDate": "Jul 2023",
+      "endDate": "Dec 2026",
+      "highlights": ["Programmer som data, Distributed Systems, StudyLab"]
     }
   ],
   "volunteer": [
@@ -63,76 +72,31 @@
       "area": "Computer Science",
       "studyType": "Masters",
       "startDate": "Sep 2023",
-      "endDate": "Exptected Jan 2026"
+      "endDate": "Dec 2026"
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "Snowboard Instructor Level 2",
+      "date": "March 2018",
+      "issuer": "CASI-ACMS",
+      "url": "https://casi-acms.com/index.php/en/"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "Snowboard Instructor Level 1",
+      "date": "December 2018",
+      "issuer": "CASI-ACMS",
+      "url": "https://casi-acms.com/index.php/en/"
     }
   ],
-  "skills": [
+  "Techincal Skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "projects": [
+      "name": "Languages",
+      "keywords": ["Java", "Python", "Go", "Scala", "F#"]
+    },
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Tools",
+      "keywords": ["Github Actions", "Docker", "Kubernetes"]
     }
   ]
 }
