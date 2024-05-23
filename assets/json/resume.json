@@ -7,23 +7,23 @@
     "url": "https://mai-sigurd.github.io/",
     "linkedin": "https://www.linkedin.com/in/mai-s-a-odgaard.com/"
   },
-  "Work": [
+  "work": [
     {
       "name": "Link Logistics",
       "position": "Student Devops Developer",
       "url": "https://linklog.com/en/",
       "startDate": "Dec 2024 -",
       "endDate": "Present",
-      "highlights": ["Docker, Kubernetes, Terraform, Github Actions"]
+      "highlights": ["Docker", "Kubernetes", "Terraform", "Github Actions"]
     }
   ],
-  "Teaching experience": [
+  "teaching experience": [
     {
       "name": "IT-University",
       "position": "Teaching Assistant",
       "startDate": "Jul 2023",
       "endDate": "Dec 2026",
-      "highlights": ["Programmer som data, Distributed Systems, StudyLab"]
+      "highlights": ["Programmer som data", "Distributed Systems", "StudyLab"]
     }
   ],
   "volunteer": [
