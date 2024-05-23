@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started a student postion in DevSecOps team in Link Logistics
+Started a student postion in the DevSecOps team in Link Logistics
