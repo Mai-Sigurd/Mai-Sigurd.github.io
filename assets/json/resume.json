@@ -14,16 +14,14 @@
       "url": "https://linklog.com/en/",
       "startDate": "Dec 2024 -",
       "endDate": "Present",
-      "highlights": ["Docker", "Kubernetes", "Terraform", "Github Actions"]
-    }
-  ],
-  "teaching experience": [
+      "highlights": ["Docker, Kubernetes, Terraform, Github Actions"]
+    },
     {
       "name": "IT-University",
       "position": "Teaching Assistant",
       "startDate": "Jul 2023",
       "endDate": "Dec 2026",
-      "highlights": ["Programmer som data", "Distributed Systems", "StudyLab"]
+      "highlights": ["Programmer som data, Distributed Systems, StudyLab"]
     }
   ],
   "volunteer": [
